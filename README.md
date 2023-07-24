@@ -55,4 +55,4 @@ We would like to express our gratitude to ALX and Udacity for providing an excel
 
 For any questions or inquiries, please feel free to contact us.
 
-Happy Data Wrangling and Analysis!
+*Happy Data Wrangling and Analysis!*
