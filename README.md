@@ -7,7 +7,7 @@ For this project, we chose to wrangle the tweet archive of Twitter user @dog_rat
 
 - **Data Gathering:** We gathered three different pieces of data from various sources using different methods. The primary data sources were as follows:
 
-**twitter_archive_enhanced.csv:** This file was given in our Udacity workspace and was manually downloaded.
+- **twitter_archive_enhanced.csv:** This file was given in our Udacity workspace and was manually downloaded.
 image_predictions.tsv: Hosted on Udacity's servers, this file was programmatically downloaded using the Requests library. The file was accessed from [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv.)
 - **Twitter API:** Using the Python tweepy library, we gathered additional data for each tweet, including retweet count and favorite ("like") count. This data was collected based on the tweet IDs found in the WeRateDogs Twitter archive data.
 - **Data Assessment:** We assessed the gathered data through both visual and programmatic assessment methods. Visual assessment involved displaying each piece of data in the Jupyter Notebook for easy observation. Programmatic assessment, on the other hand, was carried out using pandas' functions and/or methods to identify any quality and tidiness issues within the datasets.
